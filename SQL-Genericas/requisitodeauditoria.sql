@@ -2,6 +2,7 @@ SELECT
 /**
 Creación:
 2022-06-02. Andrés Del Río. Lista los requisitos asociados a las auditorías en el alcance de auditoría
+Versión: 2.1.8.59
 
 **/
         AUAUDIT.IDAUDIT,
