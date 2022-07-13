@@ -4,6 +4,9 @@ Creación:
 2022-07-13. Andrés Del Río. Query que permite explorar el modelo de datos, pasando como parámetro
 el nombre de la tabla de la relación foránea, listando todas las tablas que hacen referencia a la primera.
 DB: Postgres
+
+Fuente: https://stackoverflow.com/questions/1152260/how-to-list-table-foreign-keys
+
 **/
         tc.table_schema,
         tc.constraint_name,
