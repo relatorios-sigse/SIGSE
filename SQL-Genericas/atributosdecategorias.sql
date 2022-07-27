@@ -5,6 +5,7 @@ Creación:
 Si se quita el filtro (todo lo que hay a partir del WHERE), listará todos los pares categoría-atributo
 relacionados.
 
+
 **/
         C.IDCATEGORY,
         C.NMCATEGORY,
